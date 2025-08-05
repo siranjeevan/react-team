@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Kirthika</h1>
+      <h1>Kiruthu</h1>
     </>
   )
 }

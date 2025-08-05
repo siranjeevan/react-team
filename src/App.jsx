@@ -8,11 +8,7 @@ function App() {
 
   return (
     <>
-<<<<<<< HEAD
-      <h1>Jeevith</h1>
-=======
-      <h1>Kirthi</h1>
->>>>>>> ee4b3f8ba7365011454369754d92e67f78ef29cc
+    <h1>Jeevith</h1>
     </>
   )
 }

@@ -8,9 +8,8 @@ function App() {
 
   return (
     <>
-    <h1>Jeevith</h1>
+      <h1>Kirthika</h1>
     </>
   )
 }
-
 export default App

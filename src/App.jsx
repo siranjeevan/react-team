@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
   return (
     <>
-      <h1>kirthi team</h1>
+      <h1>kirthi and team</h1>
     </>
   )
 }
